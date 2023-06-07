@@ -1,4 +1,4 @@
-#Moovie Site
+#Movie Site
 
 #Technologies
 -HTML
